@@ -1,5 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-![Profile views](https://gpvc.arturio.dev/said-laasri) 
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world of Tech">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/said-laasri/count.svg" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Said Laasri</h1>
 
@@ -15,7 +21,7 @@ I'm a student of Microverse, i am also an open-source enthusiast and maintainer.
 - 📫 How to reach me: ... laasrisaid3@gmail.com
 - ⚡ Fun fact: ... singing, playing drums and football
 
-|<a href="https://github.com/laasri-said/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="said-laasri's github stats" /></a> |
+<a href="https://github.com/laasri-said/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="said-laasri's github stats" /></a> <a href="https://github.com/said-laasri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&layout=compact&theme=buefy&hide_border=true" /></a> 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=said-laasri) 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/said-laasri.gif?z=6)](https://github4life.herokuapp.com/said-laasri)
