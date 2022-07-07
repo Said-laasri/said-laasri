@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Said Laasri</h1>
 
 ### I am Full Stack software engineer/developer
-Hi, I'm [Said laasri](https://said-laasri.me/), a passionate self-taught full stack web developer and a software engineer from Morocco. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Said laasri](https://www.linkedin.com/in/said-laasri-8a4367172/), a passionate self-taught full stack web developer and a software engineer from Morocco. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 I'm a student of Microverse, i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source and learning new skills. HAPPY CODING 
 
