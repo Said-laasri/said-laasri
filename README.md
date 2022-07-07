@@ -14,6 +14,7 @@ Hi, I'm [Said laasri](https://said-laasri.me/), a passionate self-taught full st
 
 I'm a student of Microverse, i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source and learning new skills. HAPPY CODING 
 
+<img src="https://dribbble.com/shots/2876534-I-m-Available-for-Hire/attachments/9532460?mode=media" />
 
 ![I am Full Stack software developer (Junior)](https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif)
 
