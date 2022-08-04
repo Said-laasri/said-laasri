@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world of Tech">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Said-laasri+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
 
 <p align="center"> 
   Visitor count<br>
