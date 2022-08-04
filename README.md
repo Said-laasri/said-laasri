@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=HI 👋!;Said-laasri+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Hi👋!;Said-laasri+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
 
 <p align="center"> 
   Visitor count<br>
