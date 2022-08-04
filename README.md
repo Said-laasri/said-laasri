@@ -15,9 +15,6 @@ Hi, I'm [Said Laasri](https://www.linkedin.com/in/said-laasri-8a4367172/), a pas
 I'm a student of Microverse, I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source and learning new skills. HAPPY CODING 
 
 
-![I am Full Stack software developer (Junior)](https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif)
-
-
 [![GitHub Game of Life](https://github4life.herokuapp.com/said-laasri.gif?z=6)](https://github4life.herokuapp.com/said-laasri)
 
 
