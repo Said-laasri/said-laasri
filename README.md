@@ -6,7 +6,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Said Laasri</h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Hi👋!;Said-laasri+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
+
 ### I am Full-Stack software engineer/developer
 Hi, I'm [Said Laasri](https://www.linkedin.com/in/said-laasri-8a4367172/), a passionate self-taught full-stack web developer and a software engineer from Morocco. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
