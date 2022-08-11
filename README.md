@@ -15,6 +15,8 @@ Hi, I'm [Said Laasri](https://www.linkedin.com/in/said-laasri-8a4367172/), a pas
 I'm a student of Microverse, I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source and learning new skills. 
 HAPPY CODING!!
 
+<img src="https://d33wubrfki0l68.cloudfront.net/01cc198232551a7e180f4e9e327b5ab22d9d14e7/b33f4/assets/images/reduxdataflowdiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif" />
+
 - 👨‍💻 All of my projects are available at [https://github.com/said-laasri?tab=repositories](https://github.com/said-laasri?tab=repositories)
 - 📫 How to reach me: ... laasrisaid3@gmail.com
 - ⚡ Fun fact: ... basketball,gaming, football:
