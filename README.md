@@ -26,8 +26,6 @@ HAPPY CODING!!
 - 📫 How to reach me: ... laasrisaid3@gmail.com
 - ⚡ Fun fact: ... basketball,gaming, football.
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img  width="50%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0172.gif" border="0" alt="animated-line-image-0172" /></a>
-
 <a href="https://github.com/laasri-said/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="said-laasri's github stats" /></a> 
 
 <a href="https://github.com/said-laasri/github-readme-stats"><img align="center" width="650" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&layout=compact&theme=buefy&hide_border=true" /></a> 
