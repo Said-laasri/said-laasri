@@ -27,7 +27,7 @@ HAPPY CODING!!
 - ⚡ Fun fact: ... basketball,gaming, football.
 <div display="flex">
 <a href="https://github.com/laasri-said/github-readme-stats"><img align="start" width="500" height="230" src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="said-laasri's github stats" /></a> 
-<a href="https://github.com/said-laasri/github-readme-stats"><img align="end" width="500" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/said-laasri/github-readme-stats"><img align="end"  width="380" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=said-laasri) 
 </div>
