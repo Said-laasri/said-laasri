@@ -1,9 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-<p align="end"> 
-  <img src="https://profile-counter.glitch.me/said-laasri/count.svg" />
-</p>
+
+ 
 <h1 align="center">Hi 👋, I'm Said Laasri</h1>
+
+<p align="left">
+  <a href="https://github.com/said-laasri/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=said-laasri" alt="page views" />
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/said-laasri?color=green&logo=github">
+  </a>
+</p>
 
 
 
@@ -24,10 +32,22 @@ HAPPY CODING!!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/said-laasri?tab=repositories](https://github.com/said-laasri?tab=repositories)
 - 📫 How to reach me: ... laasrisaid3@gmail.com
 - ⚡ Fun fact: ... basketball,gaming, football.
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=said-laasri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div display="flex">
 <a href="https://github.com/laasri-said/github-readme-stats"><img  width="440" height="200" src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="said-laasri's github stats" /></a> 
 <a href="https://github.com/said-laasri/github-readme-stats"><img width="380" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&layout=compact&theme=buefy&hide_border=true" /></a> 
