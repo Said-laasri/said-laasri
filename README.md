@@ -1,16 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-<p  align="center"> 
-  Visits<br>
+<p align="end"> 
   <img src="https://profile-counter.glitch.me/said-laasri/count.svg" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Said Laasri</h1>
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Hi👋!;Said-laasri+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img width="100%" height="20" src="https://www.animatedimages.org/data/media/562/animated-line-image-0363.gif" border="0" alt="animated-line-image-0363" /></a>
-
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 
 ### I am Full-Stack software engineer/developer
@@ -19,7 +20,9 @@ Hi, I'm [Said Laasri](https://www.linkedin.com/in/said-laasri-8a4367172/), a pas
 I'm a student of Microverse, I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source and learning new skills. 
 HAPPY CODING!!
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img width="100%" height="20" src="https://www.animatedimages.org/data/media/562/animated-line-image-0363.gif" border="0" alt="animated-line-image-0363" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/said-laasri?tab=repositories](https://github.com/said-laasri?tab=repositories)
