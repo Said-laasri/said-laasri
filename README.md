@@ -52,25 +52,20 @@ HAPPY CODING!!
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=said-laasri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div display="flex">
-<a href="https://github.com/laasri-said/github-readme-stats"><img  width="440" height="200" src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="said-laasri's github stats" /></a> 
-<a href="https://github.com/said-laasri/github-readme-stats"><img width="380" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&layout=compact&theme=buefy&hide_border=true" /></a> 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=said-laasri) 
 </div>
 <p align=center>
   <div align=center>
     <a href="https://github.com/said-laasi/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=said-laasri&theme=react&border=61dafb&hide_border=true" alt="said-laasri" />
+      <img align="left" width=440 src="https://github-readme-streak-stats.herokuapp.com/?user=said-laasri&theme=react&border=61dafb&hide_border=true" alt="said-laasri" />
     </a>
     <a href="https://github.com/said-laasri/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=440 src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/said-laasri/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
