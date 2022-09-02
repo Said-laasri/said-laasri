@@ -27,7 +27,7 @@
 
 
 ### I am Full-Stack software engineer/developer
-Hi, I'm [Said Laasri](https://www.linkedin.com/in/said-laasri-8a4367172/), a passionate self-taught full-stack web developer and a software engineer from Morocco. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Said Laasri](https://www.linkedin.com/in/said-laasri-8a4367172/),<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> a passionate self-taught full-stack web developer and a software engineer from Morocco. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I'm a student of Microverse, I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source and learning new skills. 
 HAPPY CODING!!
@@ -56,10 +56,10 @@ HAPPY CODING!!
 <p align=center>
   <div align=center>
     <a href="https://github.com/said-laasi/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=440 src="https://github-readme-streak-stats.herokuapp.com/?user=said-laasri&theme=react&border=61dafb&hide_border=true" alt="said-laasri" />
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=said-laasri&theme=react&border=61dafb&hide_border=true" alt="said-laasri" />
     </a>
     <a href="https://github.com/said-laasri/github-readme-stats" title="Go to Source">
-      <img align="right" width=440 src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
