@@ -13,7 +13,7 @@
   </a>
 </p>
 
-     
+        
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋!;Said-Laasri+here...;....I'm+a+full+stack+developer;I'm+available+for+hire;&center=true&size=30">
