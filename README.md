@@ -24,8 +24,8 @@
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-    
-      
+
+
 ### I am Full-Stack software engineer/developer
 Hi, I'm [Said Laasri](https://www.linkedin.com/in/said-laasri-8a4367172/),<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> a passionate self-taught full-stack web developer and a software engineer from Morocco. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
