@@ -88,6 +88,5 @@ HAPPY CODING!!
 <hr>
 <div align="center">
  <h2>Catch me on:</h2>
- <a href="https://www.linkedin.com/in/said-laasri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> <a href="https://twitter.com/saidlaasr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> <a href="mailto:saidlaasri34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> <a href="https://angel.co/u/said-laasri"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"></img></a>
-
+ <a href="https://www.linkedin.com/in/said-laasri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> <a href="https://twitter.com/saidlaasr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> <a href="mailto:saidlaasri34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> <a href="https://angel.co/u/said-laasri"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"></img></a> <a href="https://gitlab.com/Said-Laasri"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></img></a>
 </div>
