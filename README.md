@@ -58,8 +58,7 @@ HAPPY CODING!!
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/said-laasri?tab=repositories](https://github.com/said-laasri?tab=repositories)
-- 📫 How to reach me: ... laasrisaid3@gmail.com
+- 👨‍💻 All of my projects are available at<a href="https://github.com/said-laasri?tab=repositories"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img></a>
 - ⚡ Fun fact: ... basketball,gaming, football.
 
 ## 🏆 GitHub Trophies
