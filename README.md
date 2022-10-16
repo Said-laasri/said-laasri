@@ -86,4 +86,9 @@ HAPPY CODING!!
 </p>
 
 <hr>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/said-laasri/)
+<div align="center">
+ <a target="_blank"
+href:"https://www.linkedin.com/in/said-laasri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> <a target="_blank"
+href:"https://twitter.com/saidlaasr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
+</div>
