@@ -84,3 +84,6 @@ HAPPY CODING!!
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=said-laasri&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+<hr>
+![LinkedIn](https://www.linkedin.com/in/said-laasri/)
