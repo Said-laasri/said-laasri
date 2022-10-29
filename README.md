@@ -19,7 +19,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋!;Said-Laasri+here...;....I'm+a+full+stack+developer;I'm+available+for+hire;&center=true&size=30">
   </a>
 </h1>
-
+ 
 
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
