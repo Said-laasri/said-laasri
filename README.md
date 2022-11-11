@@ -62,7 +62,7 @@ HAPPY CODING!!
 - ⚡ Fun fact: ... basketball,gaming, football.
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=said-laasri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=said-laasri&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
 <p align=center>
@@ -76,10 +76,9 @@ HAPPY CODING!!
   </div>
   
   <br><br><br><br><br><br><br><br><br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&layout=compact&theme=radical)](https://github.com/said-laasri/github-readme-stats)
   <div align=center>
     <a href="https://github.com/said-laasri/github-readme-stats">
-      <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-laasri&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
