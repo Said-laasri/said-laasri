@@ -74,7 +74,7 @@ HAPPY CODING!!
       <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=said-laasri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  t
+  
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/said-laasri/github-readme-stats">
@@ -82,6 +82,7 @@ HAPPY CODING!!
     </a>
   </div>
   <br>
+  t
   <img src="https://activity-graph.herokuapp.com/graph?username=said-laasri&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
