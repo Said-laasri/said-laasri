@@ -1,6 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
- 
- 
 <h1 align="center">Hi 👋, I'm Said Laasri</h1>
 
 
@@ -28,7 +25,7 @@
  
 ### I am a Full-Stack software engineer/developer
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-Hi, I'm [Said](https://www.linkedin.com/in/said-laasri/) ,a passionate self-taught full-stack web developer and a software engineer from Morocco. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hello there! I am a self-taught full-stack web developer and software engineer hailing from Morocco. My passion for software lies in bringing ideas to life with elegant interfaces that are both user-friendly and architecturally sound. I prioritize the experience, architecture, and code quality in every project I undertake, ensuring the highest level of craftsmanship possible.
 
 HAPPY CODING!!
 
