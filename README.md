@@ -25,7 +25,7 @@
  
 ### I am a Full-Stack software engineer/developer
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-Hello there! I am a self-taught full-stack web developer and software engineer hailing from Morocco. My passion for software lies in bringing ideas to life with elegant interfaces that are both user-friendly and architecturally sound. I prioritize the experience, architecture, and code quality in every project I undertake, ensuring the highest level of craftsmanship possible.
+Hello there! I am a self-taught full-stack web developer from Morocco, passionate about bringing ideas to life with elegant interfaces that prioritize user-friendliness and architectural excellence. I strive to deliver projects with the utmost craftsmanship, emphasizing superior user experience, well-designed architectures, and top-notch code quality.
 
 HAPPY CODING!!
 
