@@ -23,9 +23,9 @@
 </p>
 
  
-### I am a Full-Stack software engineer/developer
+### I am a Full-Stack software developer | CyberSecurity Analyst
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-Hello there! I am a self-taught full-stack web developer from Morocco, passionate about bringing ideas to life with elegant interfaces that prioritize user-friendliness and architectural excellence. I strive to deliver projects with the utmost craftsmanship, emphasizing superior user experience, well-designed architectures, and top-notch code quality.
+Hello there! I am a self-taught full-stack web developer And Certified CyberSecurity analyst from Morocco, passionate about bringing ideas to life with elegant interfaces that prioritize user-friendliness and architectural excellence. I strive to deliver projects with the utmost craftsmanship, emphasizing superior user experience, well-designed architectures, and top-notch code quality.
 
 HAPPY CODING!!
 
