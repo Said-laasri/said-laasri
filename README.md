@@ -23,10 +23,13 @@
 </p>
 
  
-### I am a Full-Stack developer | CyberSecurity Analyst
+### I am a Back-end developer | CyberSecurity Analyst
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-Hello there! I am a self-taught full-stack developer And Certified CyberSecurity analyst from Morocco, passionate about bringing ideas to life with elegant interfaces that prioritize user-friendliness and architectural excellence. I strive to deliver projects with the utmost craftsmanship, emphasizing superior user experience, well-designed architectures, and top-notch code quality.
+Hello there! I am a Backend Developer and Certified Cybersecurity Analyst from Morocco, passionate about building secure, scalable, and high-performance systems.
 
+My expertise lies in designing robust backend architectures, optimizing databases, and implementing secure authentication and encryption to safeguard applications. I prioritize efficiency, reliability, and security, ensuring that every project meets the highest standards of performance and data protection.
+
+Always exploring the latest in backend technologies and cybersecurity, I strive to create systems that are not only powerful and scalable but also resilient against threats.
 HAPPY CODING!!
 
 <p align="center">
